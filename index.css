@@ -41,7 +41,7 @@
 /*                       chỉnh nền ở đây                   */
 body {
   /* background-color: #000; */ 
- background-image: url('https://api.ipxi.cn/wp/api.php'); 
+ background-image: url('https://api.thanhdieu.com/random-background.php'); 
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center; 
