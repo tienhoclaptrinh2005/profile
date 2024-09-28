@@ -40,12 +40,12 @@ let typed=new Typed(".GioiThieu", {
 // MUSIC PLAY
 const MusicList=[ 
   
-  "//thanhdieu.com/files/Anh-Đã-Quen-Với-Cô-Đơn.mp3",
+  // "//thanhdieu.com/files/Anh-Đã-Quen-Với-Cô-Đơn.mp3",
  
-  "//thanhdieu.com/files/Về-Bên-Anh.mp3",
+  // "//thanhdieu.com/files/Về-Bên-Anh.mp3",
   
-  "//thanhdieu.com/files/Em-Nào-Có-Tội.mp3",
-
+  // "//thanhdieu.com/files/Em-Nào-Có-Tội.mp3",
+  "//Đáp án của bạn.mp3",
 
 ];
 let t=parseInt(localStorage.getItem('td')) || Math.floor(Math.random() * MusicList.length);
